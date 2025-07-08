@@ -1,2 +1,3 @@
 ilk denemelerimi yapıyorum
 ikinci satırı yazdım
+ücüncü sayırı ekledim
